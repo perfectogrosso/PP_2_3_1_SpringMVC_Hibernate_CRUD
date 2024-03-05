@@ -1,0 +1,5 @@
+/home/kirill/IdeaProjects/PP_2_3_1_SpringMVC_Hibernate_CRUD/src/main/java/mvc/config/DispatcherServletConfig.java
+/home/kirill/IdeaProjects/PP_2_3_1_SpringMVC_Hibernate_CRUD/src/main/java/mvc/config/SpringConfig.java
+/home/kirill/IdeaProjects/PP_2_3_1_SpringMVC_Hibernate_CRUD/src/main/java/mvc/controller/MainController.java
+/home/kirill/IdeaProjects/PP_2_3_1_SpringMVC_Hibernate_CRUD/src/main/java/mvc/dao/UserDAO.java
+/home/kirill/IdeaProjects/PP_2_3_1_SpringMVC_Hibernate_CRUD/src/main/java/mvc/model/User.java

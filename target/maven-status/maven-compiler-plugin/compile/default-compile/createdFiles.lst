@@ -1,0 +1,5 @@
+mvc/controller/MainController.class
+mvc/config/SpringConfig.class
+mvc/config/DispatcherServletConfig.class
+mvc/model/User.class
+mvc/dao/UserDAO.class
